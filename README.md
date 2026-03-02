@@ -53,7 +53,7 @@ Delivered clear, structured, and actionable recommendations to improve campaign 
 
 ## 📊 Overall Channel Performance Dashboard  
 
-![Dashboard](marketing_campaign_analysis.jpg)
+![Dashboard](marketing_%20campaign_%20analysis.jpg)
 
 ---
 
