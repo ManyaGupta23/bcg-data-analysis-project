@@ -32,6 +32,27 @@ Data interpretation
 Structured communication
 Strategic decision-making
 
+---
+
+## 📊 Overall Channel Performance Dashboard
+
+<p align="center">
+  <img src="images/marketing campaign analysis.jpg" width="900">
+</p>
+
+### 🔎 Dashboard Insights
+
+- Email channel generated the highest sales revenue  
+- Higher conversion observed in selected digital channels  
+- Strong relationship between user engagement and conversion rate  
+
+### 📌 Strategic Recommendations
+
+- Increase investment in high-performing revenue channels  
+- Allocate budget toward channels with better conversion efficiency  
+- Improve website engagement to boost overall customer conversions  
+
+---
 🔎 About the Program
 This job simulation was designed by Boston Consulting Group (BCG) to replicate real consulting work in marketing strategy and performance analysis.
 
