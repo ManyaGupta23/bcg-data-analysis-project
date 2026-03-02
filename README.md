@@ -37,7 +37,7 @@ Strategic decision-making
 ## 📊 Overall Channel Performance Dashboard
 
 <p align="center">
-  <img src="images/marketing campaign analysis.jpg" width="900">
+  <img src="images/marketing_campaign_analysis.jpg" width="900">
 </p>
 
 ### 🔎 Dashboard Insights
