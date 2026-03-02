@@ -64,4 +64,6 @@ Delivered clear, structured, and actionable recommendations to improve campaign 
 - Strong relationship between user engagement and conversion rate  
 
 ---
+## 🏆 Completion Certificate
 
+![Certificate](BCGcertificate.jpg)
