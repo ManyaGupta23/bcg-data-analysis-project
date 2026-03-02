@@ -36,10 +36,6 @@ Strategic decision-making
 
 ## 📊 Overall Channel Performance Dashboard
 
----
-
-## 📊 Overall Channel Performance Dashboard
-
 <p align="center">
   <img src="marketing_campaign_analysis.jpg" width="900">
 </p>
